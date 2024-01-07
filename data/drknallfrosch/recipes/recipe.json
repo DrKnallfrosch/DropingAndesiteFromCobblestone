@@ -1,0 +1,32 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"GAS",
+		"REA",
+		"SOR"
+	],
+	"key": {
+		"G": {
+			"item": "minecraft:gunpowder"
+		},
+		"A": {
+			"item": "minecraft:andesite"
+		},
+		"S": {
+			"item": "minecraft:stick"
+		},
+		"R": {
+			"item": "minecraft:rotten_flesh"
+		},
+		"E": {
+			"item": "minecraft:cactus"
+		},
+		"O": {
+			"item": "minecraft:oak_sapling"
+		}
+	},
+	"result": {
+		"item": "minecraft:iron_nugget",
+		"count": 2
+	}
+}

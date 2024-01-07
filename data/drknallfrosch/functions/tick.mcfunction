@@ -1,0 +1,3 @@
+execute as @a[nbt={Inventory:[{tag:{display:{Lore:['{"text":"Rare Drop","color":"gold","italic":false}']}}}]}] if score @s RareDropPickup matches 1.. run tellraw @s {"text":"RARE DROP","color":"green","bold":true}
+execute as @a[nbt={Inventory:[{tag:{display:{Lore:['{"text":"Rare Drop","color":"gold","italic":false}']}}}]}] if score @s RareDropPickup matches 1.. run playsound minecraft:entity.player.levelup player @s ~ ~ ~ 100 2
+execute as @a[nbt={Inventory:[{tag:{display:{Lore:['{"text":"Rare Drop","color":"gold","italic":false}']}}}]}] if score @s RareDropPickup matches 1.. run scoreboard players reset @e[type=minecraft:player]

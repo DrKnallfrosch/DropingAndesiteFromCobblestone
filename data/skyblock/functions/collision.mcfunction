@@ -1,0 +1,2 @@
+execute if score .distance tf_rc matches ..800 positioned ^ ^ ^0.01 rotated ~ ~ if block ~ ~ ~ minecraft:crying_obsidian run function skyblock:crying_obsidian
+execute if score .distance tf_rc matches ..800 positioned ^ ^ ^0.01 rotated ~ ~ if block ~ ~ ~ minecraft:end_portal run function skyblock:end_portal

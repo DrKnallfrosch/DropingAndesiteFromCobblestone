@@ -1,0 +1,1 @@
+give @s minecraft:warden_spawn_egg

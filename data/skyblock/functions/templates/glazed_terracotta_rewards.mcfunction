@@ -1,0 +1,2 @@
+function skyblock:templates/give_host_template
+function skyblock:templates/give_raiser_template

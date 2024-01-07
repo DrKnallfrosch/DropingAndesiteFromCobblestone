@@ -1,0 +1,2 @@
+function skyblock:templates/give_silence_template
+function skyblock:templates/give_ward_template

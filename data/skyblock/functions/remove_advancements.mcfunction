@@ -1,0 +1,11 @@
+advancement revoke @a only skyblock:collector/red_nether_bricks
+advancement revoke @a only skyblock:collector/sand
+advancement revoke @a only skyblock:skyblock/voluntary_exile
+advancement revoke @a only skyblock:skyblock/evoker
+advancement revoke @a only skyblock:agriculture/bamboo
+advancement revoke @a only skyblock:agriculture/brain_coral
+advancement revoke @a only skyblock:end/root
+advancement revoke @a only skyblock:mob_boss/prismarine_shard
+advancement revoke @a only skyblock:collector/terracotta
+advancement revoke @a only skyblock:collector/glazed_terracotta
+advancement revoke @a only skyblock:end/shulker_farm
